@@ -8,7 +8,7 @@ An metric for MLB contract efficiency.
 - Python
 
 ## Project Goals
-Create an MLB metric that evalautes player value by measuring their production against their pay rate, estimating their contracting efficiency.
+Create an MLB metric that evaluates player value by measuring their production against their pay rate, estimating their contracting efficiency.
 
 ## Timeline
 - **Start Date**: 2/5/2026
