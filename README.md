@@ -2,19 +2,17 @@
 Final project repository for SAL 603
 
 ## Project Description
-[Add a brief description of what your project is about - what problem it solves or what it creates]
+An metric for MLB contract efficiency.
 
 ## Technologies Used
-- [List the main technologies, programming languages, or tools you'll be using]
+- Python
 
 ## Project Goals
-- [Goal 1]
-- [Goal 2]
-- [Goal 3]
+Create an MLB metric that evalautes player value by measuring their production against their pay rate, estimating their contracting efficiency.
 
 ## Timeline
-- **Start Date**: [Date]
-- **Expected Completion**: [Date]
+- **Start Date**: 2/5/2026
+- **Expected Completion**: 3/5/2026
 
 ## Status
 🚧 Currently in development
