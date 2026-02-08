@@ -15,7 +15,7 @@ Create an MLB metric that evaluates player value by measuring their production a
 - **Expected Completion**: 3/5/2026
 
 ## Status
-🚧 Currently in development
+TBD
 
 ## Author
 Zach Spaulding
