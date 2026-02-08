@@ -10,10 +10,6 @@ An metric for MLB contract efficiency.
 ## Project Goals
 Create an MLB metric that evaluates player value by measuring their production against their pay rate, estimating their contracting efficiency.
 
-## Timeline
-- **Start Date**: 2/5/2026
-- **Expected Completion**: 3/5/2026
-
 ## Status
 TBD
 
