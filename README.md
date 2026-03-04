@@ -2,21 +2,13 @@
 Final project repository for SAL 603
 
 ## Project Description
-An metric for MLB contract efficiency.
+Professional Sports League W/L% (MLB) Correlation Analysis
 
 ## Technologies Used
 - Python
 
 ## Project Goals
-Create an MLB metric that evaluates player value by measuring their production against their pay rate, estimating their contracting efficiency.
+To determine which offensive and defensive performance metrics are most strongly correlated with team win percentage across various professional sports leagues (MLB). We want to discover if team success is more strongly associated with peak single-seasonstatistical output or with consistent performance sustained across multiple seasons?
 
-## Status
-TBD
-
-## Author
-Zach Spaulding
-
-## Course Information
-- **Course**: SAL 603
-- **Semester**: Spring 2026
-```
+## Authors
+Zach Spaulding, Shaelyn Rix, Zach Foster, Jacob VanDuynhoven
